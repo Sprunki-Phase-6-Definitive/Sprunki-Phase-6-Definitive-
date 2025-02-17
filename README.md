@@ -6,6 +6,8 @@
 
 This game invites players to explore a vibrant world where crafting unique soundscapes becomes an exhilarating experience.
 
+![Sprunki Phase 6 Definitive](https://game.sprunkly.org/202502121310651.png)
+
 ## Key Features
 
 - **Expanded Character Roster:** Discover an exciting range of new Sprunki characters, each with distinct animations and sound loops that enhance your musical compositions.
